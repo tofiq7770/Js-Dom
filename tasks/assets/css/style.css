@@ -1,0 +1,14 @@
+.icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgba(255, 255, 0, 0.725);
+}
+.bulb i{
+    font-size: 120px;
+    margin-top: 350px;
+    cursor: pointer;
+}
+body{
+    background-color: black;
+}
